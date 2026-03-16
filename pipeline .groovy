@@ -6,7 +6,7 @@ stages {
 
 stage('Checkout'){
 steps{
-git 'https://github.com/devsecops/iac-lab'
+git 'https://github.com/ltluong/devsecops-iac-lab'
 }
 }
 
